@@ -156,8 +156,8 @@ img {
 .header-line {
   position: absolute;
   border: 1px solid #ececec;
-  width: 100%;
-  left: 0;
+  width: 1600px;
+  left: -200px;
   bottom: 0;
 }
 

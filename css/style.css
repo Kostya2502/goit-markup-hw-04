@@ -70,6 +70,9 @@ img {
   color: var(--title-text-color);
 }
 
+header {
+  border: 1px solid #ececec;
+}
 .main-container {
   position: relative;
   display: flex;
@@ -153,13 +156,13 @@ img {
   width: 10px;
   height: 16px;
 }
-.header-line {
+/* .header-line {
   position: absolute;
   border: 1px solid #ececec;
   width: 1600px;
   left: -200px;
   bottom: 0;
-}
+} */
 
 /* .overlay {
   margin-left: auto;

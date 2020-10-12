@@ -71,10 +71,9 @@ img {
 }
 
 header {
-  border: 1px solid #ececec;
+  border-bottom: 1px solid #ececec;
 }
 .main-container {
-  position: relative;
   display: flex;
   align-items: center;
 }
